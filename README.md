@@ -87,7 +87,7 @@ Aucune installation n'est nécessaire, mais une **connexion internet** est requi
 ## 👥 L'équipe
 
 - **Aliou** — étudiant, passionné de football et de développement web
-- _Ajouter les autres membres du groupe_
+
 
 ## 📚 Ce que j'ai appris
 
